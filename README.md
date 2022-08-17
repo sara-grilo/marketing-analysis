@@ -1,1 +1,2 @@
-este repositório existe porque eu quero partilhar o meu código
+## SQL Marketing Analysis
+ this repository is used to show case my SQL skills.

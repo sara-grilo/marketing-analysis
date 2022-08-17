@@ -1,0 +1,1 @@
+este repositório existe porque eu quero partilhar o meu código
